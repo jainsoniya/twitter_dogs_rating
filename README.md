@@ -9,7 +9,7 @@ like - time, source of tweet, comments, urls, different dog stage and name of th
 tweet image predictions, i.e., what breed of dog (or other object, animal, etc.) is present in each tweet according to a neural network. This file contains the result of top 3 algorithms. For the purpose of my analysis, I have chosen the 1st prediction algorithm as it had the highest confidence ratio.
 3. tweet-json.txt -  This file contain 2354 observations of favorites and retweet counts of each tweet_id.
 
-The detail analysis can be found in [wrangle_act.ipynb](https://github.com/jainsoniya/twitter_dogs_rating/blob/master/wrangle_act.ipynb) and [twitter_table_etl.sql](https://github.com/jainsoniya/twitter_dogs_rating/blob/master/twitter_table_ETL.sql) 
+The detail analysis can be found in [twitter_etl.ipynb](https://github.com/jainsoniya/twitter_dogs_rating/blob/master/twitter_etl.ipynb) and [twitter_table_etl.sql](https://github.com/jainsoniya/twitter_dogs_rating/blob/master/twitter_table_ETL.sql) 
 
 The visualization made in Tableau can be found [here](https://public.tableau.com/profile/soniya4758#!/vizhome/TwitterWeRateDogs/Dashboard2)
 
